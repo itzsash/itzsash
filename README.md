@@ -3,5 +3,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itzsash&show_icons=true&locale=en" alt="itzsash" /><p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itzsash&" alt="itzsash" /></p>
-
-⭐ All of my projects are available at [https://github.com/itzsash](https://github.com/itzsash)
+<br />
+# ⭐All of my projects are available at [https://github.com/itzsash](https://github.com/itzsash) 
