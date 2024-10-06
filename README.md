@@ -21,10 +21,9 @@
 ------
 
 <p align="center">
-  <h3>📈 GitHub Stats:</h3>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itzsash&bg_color=ffffff&color=555555&line=4d4d4d&point=4c4c4c&area=true&area_color=4d4d4d&title_color=333333" alt="Activity Graph" />
+  <h3>📈 GitHub Activity Graph:</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=itzsash&theme=react-dark" alt="Activity Graph" />
 </p>
-
   
 
 
