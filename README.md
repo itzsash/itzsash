@@ -1,6 +1,15 @@
-<p align="center"> ⭐ All of my projects are available at https://github.com/itzsash 🍭  <br />
+<p align="center">⭐ All of my projects are available at <a href="https://github.com/itzsash">https://github.com/itzsash</a> 🍭</p>
 
- <br /><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzsash" alt="itzsash" /></a> </p> 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=itzsash" alt="itzsash" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
