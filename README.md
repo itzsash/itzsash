@@ -25,11 +25,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itzsash&bg_color=ffffff&color=555555&line=4d4d4d&point=4c4c4c&area=true&area_color=4d4d4d&title_color=333333" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itzsash" alt="itzsash" />
-  </a>
-
   
 
 
