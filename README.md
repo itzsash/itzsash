@@ -4,4 +4,4 @@
 
 </p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itzsash&" alt="itzsash" /></p>
 
-🍫#### ⭐ All of my projects are available at https://github.com/itzsash <br>
+⭐ All of my projects are available at https://github.com/itzsash 🍫☕
