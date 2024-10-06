@@ -18,12 +18,7 @@
   </tr>
 </table>
 
-------
 
-<p align="center">
-  <h3>📈 GitHub Activity Graph:</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=itzsash&theme=react-dark" alt="Activity Graph" />
-</p>
   
 
 
