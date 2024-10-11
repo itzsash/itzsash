@@ -1,4 +1,4 @@
-<p align="center">⭐ hey! wanna check out all of my projects ? click  <a href="https://github.com/stars/itzsash/lists/vlsi">here</a> 🍭</p>
+<p align="center">⭐ ʜᴇʏ, ᴡᴀɴɴᴀ ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ? ᴄʟɪᴄᴋ<a href="https://github.com/stars/itzsash/lists/vlsi">ʜᴇʀᴇ</a> 🍭</p>
 
 
 
