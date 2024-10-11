@@ -1,4 +1,5 @@
-<p align="center">⭐ All of my projects are available at <ahref="[https://github.com/stars/itzsash/lists/vlsi]</a> 🍭</p>
+<p align="center">⭐ All of my projects are available at <a href="https://github.com/stars/itzsash/lists/vlsi">this link</a> 🍭</p>
+
 
 
 
